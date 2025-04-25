@@ -21,11 +21,5 @@ Criei uma página pessoal contendo:
 - Estruturação semântica do HTML
 - Teste de acessibilidade com **CodeSniffer**
 - Aplicação do **Box Model**
-- Estilização de fontes (tamanho, cor, espaçamento, font-family)
-- Posicionamento de elementos lado a lado com uso de classes
+- Estilização de fontes (tamanho, cor, espaçamento)
 
-## 🔧 Funcionalidades bônus
-
-- Criação de uma **tabela** para enriquecer o conteúdo
-- Personalização do layout com **margin, padding e border**
-- Posicionamento lateral do artigo e do aside com uso de classes `lado-esquerdo` e `lado-direito`
