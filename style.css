@@ -1,6 +1,18 @@
 body {
     background-color: rgb(253, 251, 251);
 }
+a {
+    background-color: rgb(255, 0, 0, 0.335);
+    box-shadow: 0px;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    background-color: rgba(255, 0, 0, 0.526);
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+}
 
 #cabecalho {
     background-color: rgba(255, 0, 0, 0.335);
